@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucas-marcelino01 (Lucas Marcelino)
+- 👋 Hi, I’m @lucas-marcelino1 (Lucas Marcelino)
 - 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning Ruby on Rails with a intensive training program (TreinaDEV8 - https://treinadev.com.br/home)
 - 💞️ I’m looking to collaborate on development web applications
