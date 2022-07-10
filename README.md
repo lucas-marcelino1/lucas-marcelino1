@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @lucas-marcelino1 (Lucas Marcelino)
-- 👀 I’m interested in Ruby on Rails
-- 🌱 I’m currently learning Ruby on Rails with a intensive training program (TreinaDEV8 - https://treinadev.com.br/home)
-- 💞️ I’m looking to collaborate on development web applications
+<h2>👋 Hi, I’m @lucas-marcelino1 (Lucas Marcelino)</h2>
+
+- 👀 I’m interested in Ruby on Rails, AngularJS and API's integrations.
+- 🌱 I’m constantly learning Ruby on Rails, and currently i'm focusing in JS and Angular.
+- 💞️ I’m looking to collaborate on development web applications.
 - 📫 How to reach me lucas_marcelino2000@hotmail.com or www.linkedin.com/in/lucas-marcelino
+
+<div>
+<a href="https://github.com/lucas-marcelino-1/github-readme-stats">
+  <img align="center-top" src="https://github-readme-stats.vercel.app/api?username=lucas-marcelino1&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/lucas-marcelino-1/github-readme-stats">
+  <img align="center-top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-marcelino1&layout=compact&theme=dracula" />
+</a>
+</div>
 
 <div class="badges">
  <div>
