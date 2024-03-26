@@ -1,8 +1,9 @@
 <h2>👋 Hi, I’m @lucas-marcelino1 (Lucas Marcelino)</h2>
 
-- 👀 I’m interested in Ruby on Rails, AngularJS and API's integrations.
-- 🌱 I’m constantly learning Ruby on Rails, and currently i'm focusing in JS and Angular.
-- 💞️ I’m looking to collaborate on development web applications.
+- 👀 I’m interested in Ruby on Rails Web Development, Python Analytics Data and Arduino Projects Developments.
+- 🌱 I’m currently learning Python Analytics Data and Arduino Development.
+- 📜 I'm graduating in Mathematics.
+- 💞️ I’m looking to collaborate on development web applications and data science projects.
 - 📫 How to reach me lucas_marcelino2000@hotmail.com or www.linkedin.com/in/lucas-marcelino
 
 <div>
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/arduino-3186a0?style=for-the-badge&logo=arduino&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
